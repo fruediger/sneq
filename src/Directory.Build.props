@@ -1,0 +1,8 @@
+<Project>
+    <ItemGroup>
+        <None Remove="snake.png" />    
+    </ItemGroup>
+    <ItemGroup>
+        <EmbeddedResource Include="snake.png" />
+    </ItemGroup>
+</Project>
