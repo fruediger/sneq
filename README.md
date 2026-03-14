@@ -49,7 +49,7 @@ If you like to check out the final code, you can find it here: [src](src/). If y
 dotnet run sneq.cs
 ```
 
-Since it's using the platform-independent version of [SDL3#](https://github.com/Sdl3Sharp/), and should run on Windows and Linux, as long as you have a .NET10+ SDK or .NET10 runtime + dotnet cli installed.
+Since it's using the platform-independent version of [SDL3#](https://github.com/Sdl3Sharp/), and should run on Windows and Linux, as long as you have a .NET10+ SDK or .NET10+ Runtime + dotnet CLI installed.
 
 If you have issue starting the game, try run
 
